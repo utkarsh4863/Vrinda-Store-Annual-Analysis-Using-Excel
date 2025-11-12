@@ -86,8 +86,10 @@ Before analysis, raw data was cleaned and standardized in Excel:
 
 ---
 
+
 ## 🖼️ Dashboard Preview
-*(https://github.com/utkarsh4863/Vrinda-Store-Annual-Analysis-Using-Excel/blob/main/Dashboard%20Screenshot%20.png)*  
+![Dashboard Screenshot](https://github.com/utkarsh4863/Vrinda-Store-Annual-Analysis-Using-Excel/blob/main/Dashboard%20Screenshot%20.png)
+ 
 
 
 ---
