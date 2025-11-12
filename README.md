@@ -1,6 +1,5 @@
 # Vrinda-Store-Annual-Analysis-Using-Excel
 
-# 🛍️ Vrinda Store Annual Sales Report – 2022
 
 ## 📘 Project Overview
 The **Vrinda Store Annual Sales Report 2022** aims to analyze the company’s online sales data to identify customer trends, channel performance, and sales opportunities.  
